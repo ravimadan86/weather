@@ -28,3 +28,10 @@ Next 5 Days ( 7 days api isn't available in free account) is available at `/next
 
 Temperature Unit is Degree Celsius
 
+
+### Code 
+
+Backend logic : app/Http/Controllers/HomeController.php
+View Files : resources/views/
+Routes : routes/web.php
+Config : .env for `WEATHER_APP_ID`.
