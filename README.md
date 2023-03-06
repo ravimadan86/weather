@@ -18,7 +18,7 @@ Edit .env to update `WEATHER_APP_ID`.
 - Live : Point the domain to `public` folder
 
 
-### About Web Pages
+## About Web Pages
 
 Current Weather Page is available at `/home` route.
 
@@ -29,7 +29,7 @@ Next 5 Days ( 7 days api isn't available in free account) is available at `/next
 Temperature Unit is Degree Celsius
 
 
-### Code 
+## Code 
 
 Backend logic : app/Http/Controllers/HomeController.php
 
