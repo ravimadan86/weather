@@ -1,6 +1,6 @@
 ## Setup
 
-git clone URL
+git clone https://github.com/ravimadan86/weather.git
 
 composer install
 
