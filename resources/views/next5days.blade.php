@@ -53,6 +53,7 @@
             <strong>Error : {{ $exceptionMessage }}</strong>
           @else
             <strong>No forecast available. Search city to show result</strong>
+          @endif
         @endif
 
       </div>
