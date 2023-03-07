@@ -6,7 +6,7 @@
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3>Forecast Info ( 3 HOUR INTERVAL FOR 5 DAYS ) </h3>
-        <a href="/home" >Current</a> | <a href="/next24" >Next 24</a>
+        <a href="/home" >Current</a> | <a href="/next24" >Next 24 hours</a>
       </div>
       <div class="panel-body">
         <div class="form-group">
