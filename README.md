@@ -10,6 +10,8 @@ cp .env.example .env
 
 Edit .env to update `WEATHER_APP_ID`.
 
+chmod -R 777 storage/
+
 
 ## Start Project
 
