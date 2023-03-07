@@ -23,7 +23,7 @@
           </form>
         </div>
       </div>
-      <div>
+      <div class="panel-body">
         @if ($forecast && $forecast->cod == 200)
           <table class="table">
             <thead>
