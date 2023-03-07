@@ -52,8 +52,7 @@
           @if( !empty($exceptionMessage) )
             <strong>Error : {{ $exceptionMessage }}</strong>
           @else
-            <strong>Sorry my dear friend, no forecast here. Search city to show result</strong>
-          @endif
+            <strong>No forecast available. Search city to show result</strong>
         @endif
 
       </div>
