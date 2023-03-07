@@ -40,7 +40,7 @@
               @if( $list->dt <= $time24 )
               <tr>
                 <th scope="row"></th>
-                <td>{{ $list->dt_txt }} </td>
+                <td>{{ date("D h.i A", $list->dt) }} </td>
                 <td>{{ $list->weather[0]->main }}  ( {{ $list->weather[0]->description }} ) </td>
                 <td> {{ $list->main->temp }} </td>
                 <td> <img id="wicon" src="{{ 'http://openweathermap.org/img/w/'.$list->weather[0]->icon.'.png' }}" alt="Weather icon"> </td>
